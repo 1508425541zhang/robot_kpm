@@ -1,0 +1,5 @@
+﻿生成开始于 下午7:35...
+1>------ 已启动生成: 项目: robot_kpm, 配置: Debug Any CPU ------
+1>robot_kpm -> C:\Users\15084\source\repos\robot_kpm\bin\Debug\net6.0\robot_kpm.dll
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 下午7:35 完成，耗时 02.732 秒 ==========
